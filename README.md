@@ -1,11 +1,6 @@
 
-  # Warpstar 2.0
+# Warpstar
 
-  This is a code bundle for Warpstar 2.0. The original project is available at https://www.figma.com/design/2euTXkBFjstZGnbNxVWDDL/Warpstar-2.0.
+Warpstar is a video game review site built by gamers, for gamers. Featuring reviews built on five factors, a tailored recommendation algorithm, and interactivity with other users and reviews, Warpstar is for everyone who loves video games, from casual players to die-hards.
 
-  ## Running the code
-
-  Run `npm i` to install the dependencies.
-
-  Run `npm run dev` to start the development server.
-  
+Join the community at https://warpstar.space
